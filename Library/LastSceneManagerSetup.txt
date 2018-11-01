@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HellAR/Scenes/HellAR.unity
+  isLoaded: 1
+  isActive: 1
